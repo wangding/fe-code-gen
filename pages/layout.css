@@ -1,0 +1,15 @@
+.app-configer {
+  position: absolute;
+  top: 70px;
+  bottom: 0;
+  width: 600px;
+}
+
+.app-previewer {
+  position: absolute;
+  top: 70px;
+  left: 600px;
+  right: 0;
+  bottom: 0;
+  border-left: 2px solid #999; 
+}
