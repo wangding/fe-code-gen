@@ -1,0 +1,12 @@
+.app-header {
+  border-bottom: 5px solid #1aa094;
+  height: 65px;
+  z-index: 10;
+}
+
+.app-header h1 {
+  line-height: 70px;
+  font-size: 22px;
+  font-weight: 400;
+  margin-left: 20px;
+}
